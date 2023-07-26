@@ -1,0 +1,40 @@
+html {
+	background: url(../fon.png) no-repeat center center;
+	min-height: 100%;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+h1 {
+	font-family: century gothic;
+	font-size: 57.33px;
+	margin-top: 32px;
+}
+h2 {
+	font-family: century gothic regular;
+	font-size: 16.00px;
+	margin-top: 0px;
+	opacity: 80%;
+}
+h3 {
+	font-family: century gothic regular;
+	font-size: 19.20px;
+	margin-top: 32px;
+	margin-bottom: 26px;
+}
+p {
+	font-family: century gothic regular;
+	font-size: 19.20px;
+	margin-top: 32px;
+}
+h4 {
+	font-family: century gothic regular;
+	font-size: 13.33px;
+	margin-top: 32px;
+	opacity: 80%;
+}
+.icons a {
+	margin-top: 0px;
+	margin-left: 12px;
+	margin-right: 12px;
+}
