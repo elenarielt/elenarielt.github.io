@@ -9,11 +9,13 @@ h1 {
 	font-family: century gothic;
 	font-size: 57.33px;
 	margin-top: 32px;
+	margin-bottom: 0px;
 }
 h2 {
 	font-family: century gothic regular;
 	font-size: 16.00px;
-	margin-top: 0px;
+	margin-top: 24px;
+	margin-bottom: 0px;
 	opacity: 80%;
 }
 h3 {
@@ -26,17 +28,20 @@ p {
 	font-family: century gothic regular;
 	font-size: 19.20px;
 	margin-top: 32px;
+	margin-bottom: 0px;
 }
 h4 {
 	font-family: century gothic regular;
 	font-size: 13.33px;
 	margin-top: 32px;
 	opacity: 80%;
+	margin-bottom: 0px;
 }
 h5 {
 	font-family: century gothic;
 	font-size: 19.2px;
 	margin-top: 16px;
+	margin-bottom: 32px;
 }
 .icons a {
 	margin-top: 0px;
